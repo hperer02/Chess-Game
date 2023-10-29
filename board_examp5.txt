@@ -1,0 +1,3 @@
+20
+Bb5, Kk5, Bf4, Bl1
+Km3, Bc3, Be3 
